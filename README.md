@@ -1,2 +1,0 @@
-# Maya
-Maya projects
